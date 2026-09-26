@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "built": "2026-09-26",
+  "instruments": [
+    {
+      "id": "drums-rock",
+      "name": "Rock kit",
+      "bytes": 145355576,
+      "files": 813
+    },
+    {
+      "id": "drums-jazz",
+      "name": "Jazz kit",
+      "bytes": 95309943,
+      "files": 690
+    },
+    {
+      "id": "bass-finger",
+      "name": "Hollowbody bass (fingers)",
+      "bytes": 115160348,
+      "files": 1513
+    },
+    {
+      "id": "bass-pick",
+      "name": "Solidbody bass (pick)",
+      "bytes": 66759655,
+      "files": 577
+    },
+    {
+      "id": "bass-upright",
+      "name": "Double bass (pizzicato)",
+      "bytes": 41060587,
+      "files": 513
+    },
+    {
+      "id": "piano",
+      "name": "Grand piano",
+      "bytes": 298007660,
+      "files": 208
+    },
+    {
+      "id": "guitar-electric",
+      "name": "Archtop electric (pickup, for the amp)",
+      "bytes": 29920850,
+      "files": 358
+    },
+    {
+      "id": "guitar-electric-mic",
+      "name": "Archtop electric (microphone)",
+      "bytes": 42722820,
+      "files": 358
+    },
+    {
+      "id": "guitar-chords",
+      "name": "Solidbody electric (chords)",
+      "bytes": 20752553,
+      "files": 289
+    },
+    {
+      "id": "guitar-di",
+      "name": "Fender electric (DI, for the amp)",
+      "bytes": 37861675,
+      "files": 121
+    }
+  ],
+  "credits": [
+    "Big Rusty Drums 1.100 by Karoryfer Lecolds (D. Smolken), CC0 1.0 (public domain dedication), https://github.com/sfzinstruments/karoryfer.big-rusty-drums",
+    "Virtuosity Drums 0.925 by Versilian Studios, CC0 1.0 (public domain dedication), https://github.com/sfzinstruments/virtuosity_drums",
+    "Black And Blue Basses 1.002 by Karoryfer Lecolds (D. Smolken), CC0 1.0 (public domain dedication), https://github.com/sfzinstruments/karoryfer.black-and-blue-basses",
+    "Sneakybass 1.000 by Karoryfer Lecolds (D. Smolken), CC0 1.0 (public domain dedication), https://github.com/sfzinstruments/karoryfer.sneakybass",
+    "Osiris Piano 0.925 by Karoryfer Lecolds x Versilian Studios, CC0 1.0 (public domain dedication), https://github.com/sfzinstruments/Osiris_Piano",
+    "Shinyguitar 1.002 by Karoryfer Lecolds (D. Smolken), CC0 1.0 (public domain dedication), https://github.com/sfzinstruments/karoryfer.shinyguitar",
+    "Emilyguitar 1.001 by Karoryfer Lecolds (D. Smolken), CC0 1.0 (public domain dedication), https://github.com/sfzinstruments/karoryfer.emilyguitar",
+    "Electric Guitar FSBS (direct) 2022-09-11 by FreePats project (freepats.zenvoid.org), CC0 1.0 (public domain dedication), https://github.com/freepats/electric-guitar-FSBS-direct"
+  ]
+}
