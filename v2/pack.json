@@ -1,0 +1,364 @@
+{
+  "version": 1,
+  "built": "2026-09-27",
+  "instruments": [
+    {
+      "id": "drums-rock",
+      "name": "Rock kit",
+      "bytes": 145355576,
+      "files": 813
+    },
+    {
+      "id": "drums-jazz",
+      "name": "Jazz kit",
+      "bytes": 95309943,
+      "files": 690
+    },
+    {
+      "id": "bass-finger",
+      "name": "Hollowbody bass (fingers)",
+      "bytes": 115160348,
+      "files": 1513
+    },
+    {
+      "id": "bass-pick",
+      "name": "Solidbody bass (pick)",
+      "bytes": 66759655,
+      "files": 577
+    },
+    {
+      "id": "bass-upright",
+      "name": "Double bass (pizzicato)",
+      "bytes": 41060587,
+      "files": 513
+    },
+    {
+      "id": "piano",
+      "name": "Grand piano",
+      "bytes": 298007660,
+      "files": 208
+    },
+    {
+      "id": "guitar-electric",
+      "name": "Archtop electric (pickup, for the amp)",
+      "bytes": 29920850,
+      "files": 358
+    },
+    {
+      "id": "guitar-electric-mic",
+      "name": "Archtop electric (microphone)",
+      "bytes": 42722820,
+      "files": 358
+    },
+    {
+      "id": "guitar-chords",
+      "name": "Solidbody electric (chords)",
+      "bytes": 20752553,
+      "files": 289
+    },
+    {
+      "id": "guitar-di",
+      "name": "Fender electric (DI, for the amp)",
+      "bytes": 37861675,
+      "files": 121
+    },
+    {
+      "id": "strings-violins",
+      "name": "Violin section",
+      "bytes": 51644360,
+      "files": 132
+    },
+    {
+      "id": "strings-violas",
+      "name": "Viola section",
+      "bytes": 55008518,
+      "files": 145
+    },
+    {
+      "id": "strings-cellos",
+      "name": "Cello section",
+      "bytes": 47602807,
+      "files": 157
+    },
+    {
+      "id": "strings-basses",
+      "name": "Contrabass",
+      "bytes": 62859757,
+      "files": 153
+    },
+    {
+      "id": "violin",
+      "name": "Solo violin",
+      "bytes": 73056613,
+      "files": 162
+    },
+    {
+      "id": "cello",
+      "name": "Solo cello",
+      "bytes": 44786371,
+      "files": 459
+    },
+    {
+      "id": "trumpet",
+      "name": "Trumpet",
+      "bytes": 58524262,
+      "files": 141
+    },
+    {
+      "id": "trombone",
+      "name": "Tenor trombone",
+      "bytes": 37750359,
+      "files": 99
+    },
+    {
+      "id": "horn",
+      "name": "French horn",
+      "bytes": 29317844,
+      "files": 101
+    },
+    {
+      "id": "tuba",
+      "name": "Tuba",
+      "bytes": 13443260,
+      "files": 88
+    },
+    {
+      "id": "flute",
+      "name": "Flute",
+      "bytes": 38766589,
+      "files": 95
+    },
+    {
+      "id": "clarinet",
+      "name": "Clarinet",
+      "bytes": 36658500,
+      "files": 98
+    },
+    {
+      "id": "oboe",
+      "name": "Oboe",
+      "bytes": 34028406,
+      "files": 88
+    },
+    {
+      "id": "bassoon",
+      "name": "Bassoon",
+      "bytes": 27249782,
+      "files": 93
+    },
+    {
+      "id": "piccolo",
+      "name": "Piccolo",
+      "bytes": 4737338,
+      "files": 11
+    },
+    {
+      "id": "sax-tenor",
+      "name": "Tenor saxophone",
+      "bytes": 24268861,
+      "files": 106
+    },
+    {
+      "id": "sax-alto",
+      "name": "Alto saxophone",
+      "bytes": 43559073,
+      "files": 129
+    },
+    {
+      "id": "sax-bari",
+      "name": "Baritone saxophone",
+      "bytes": 35194292,
+      "files": 569
+    },
+    {
+      "id": "harmonica",
+      "name": "Blues harp (C and F)",
+      "bytes": 28101451,
+      "files": 153
+    },
+    {
+      "id": "harmonica-chromatic",
+      "name": "Chromatic harmonica",
+      "bytes": 14327095,
+      "files": 79
+    },
+    {
+      "id": "vibraphone",
+      "name": "Vibraphone",
+      "bytes": 18651189,
+      "files": 45
+    },
+    {
+      "id": "harpsichord",
+      "name": "Harpsichord (Flemish)",
+      "bytes": 21523516,
+      "files": 109
+    },
+    {
+      "id": "harp",
+      "name": "Concert harp",
+      "bytes": 25845909,
+      "files": 46
+    },
+    {
+      "id": "pipe-organ",
+      "name": "Pipe organ",
+      "bytes": 54153713,
+      "files": 54
+    },
+    {
+      "id": "organ-drawbar",
+      "name": "Drawbar organ",
+      "bytes": 2563405,
+      "files": 17
+    },
+    {
+      "id": "organ-rock",
+      "name": "Rock organ",
+      "bytes": 6553977,
+      "files": 33
+    },
+    {
+      "id": "organ-percussive",
+      "name": "Percussive organ",
+      "bytes": 5706888,
+      "files": 33
+    },
+    {
+      "id": "epiano-fm",
+      "name": "FM electric piano",
+      "bytes": 21550873,
+      "files": 67
+    },
+    {
+      "id": "clav-fm",
+      "name": "FM clavinet",
+      "bytes": 11152988,
+      "files": 58
+    },
+    {
+      "id": "glockenspiel",
+      "name": "Glockenspiel",
+      "bytes": 5433256,
+      "files": 19
+    },
+    {
+      "id": "xylophone",
+      "name": "Xylophone",
+      "bytes": 2295034,
+      "files": 48
+    },
+    {
+      "id": "tubular-bells",
+      "name": "Tubular bells",
+      "bytes": 16851261,
+      "files": 19
+    },
+    {
+      "id": "steel-drum",
+      "name": "Steel drum",
+      "bytes": 43763789,
+      "files": 442
+    },
+    {
+      "id": "guitar-nylon",
+      "name": "Nylon-string guitar",
+      "bytes": 4896802,
+      "files": 49
+    },
+    {
+      "id": "guitar-steel",
+      "name": "Steel-string guitar",
+      "bytes": 1108622,
+      "files": 16
+    },
+    {
+      "id": "banjo",
+      "name": "Banjo (6-string)",
+      "bytes": 2740432,
+      "files": 59
+    },
+    {
+      "id": "ukulele",
+      "name": "Ukulele",
+      "bytes": 1187677,
+      "files": 15
+    },
+    {
+      "id": "accordion",
+      "name": "Button accordion",
+      "bytes": 4037460,
+      "files": 35
+    },
+    {
+      "id": "strumstick",
+      "name": "Strumstick",
+      "bytes": 11338394,
+      "files": 58
+    },
+    {
+      "id": "drums-brush",
+      "name": "Brush kit",
+      "bytes": 109397546,
+      "files": 1013
+    },
+    {
+      "id": "drums-vintage",
+      "name": "Vintage kit",
+      "bytes": 85261601,
+      "files": 445
+    },
+    {
+      "id": "drums-garage",
+      "name": "Garage kit",
+      "bytes": 133518291,
+      "files": 725
+    },
+    {
+      "id": "timpani",
+      "name": "Timpani",
+      "bytes": 14998932,
+      "files": 39
+    },
+    {
+      "id": "orchestral-perc",
+      "name": "Orchestral percussion",
+      "bytes": 38929890,
+      "files": 83
+    },
+    {
+      "id": "percussion",
+      "name": "Hand percussion",
+      "bytes": 23252195,
+      "files": 500
+    }
+  ],
+  "credits": [
+    "Big Rusty Drums 1.100 by Karoryfer Lecolds (D. Smolken), CC0 1.0 (public domain dedication), https://github.com/sfzinstruments/karoryfer.big-rusty-drums",
+    "Virtuosity Drums 0.925 by Versilian Studios, CC0 1.0 (public domain dedication), https://github.com/sfzinstruments/virtuosity_drums",
+    "Black And Blue Basses 1.002 by Karoryfer Lecolds (D. Smolken), CC0 1.0 (public domain dedication), https://github.com/sfzinstruments/karoryfer.black-and-blue-basses",
+    "Sneakybass 1.000 by Karoryfer Lecolds (D. Smolken), CC0 1.0 (public domain dedication), https://github.com/sfzinstruments/karoryfer.sneakybass",
+    "Osiris Piano 0.925 by Karoryfer Lecolds x Versilian Studios, CC0 1.0 (public domain dedication), https://github.com/sfzinstruments/Osiris_Piano",
+    "Shinyguitar 1.002 by Karoryfer Lecolds (D. Smolken), CC0 1.0 (public domain dedication), https://github.com/sfzinstruments/karoryfer.shinyguitar",
+    "Emilyguitar 1.001 by Karoryfer Lecolds (D. Smolken), CC0 1.0 (public domain dedication), https://github.com/sfzinstruments/karoryfer.emilyguitar",
+    "Electric Guitar FSBS (direct) 2022-09-11 by FreePats project (freepats.zenvoid.org), CC0 1.0 (public domain dedication), https://github.com/freepats/electric-guitar-FSBS-direct",
+    "VS Chamber Orchestra: Community Edition (VSCO 2 CE): Violin section by Versilian Studios (Sam Gossner, Simon Dalzell, Elan Hickler), CC0 1.0 (public domain dedication), https://github.com/sgossner/VSCO-2-CE",
+    "Karoryfer x bigcat cello 1.001 by Karoryfer Lecolds (D. Smolken) and bigcat, CC0 1.0 (public domain dedication), https://github.com/sfzinstruments/karoryfer-bigcat.cello",
+    "Versilian Community Sample Library (VCSL): Tenor saxophone by Versilian Studios LLC, CC0 1.0 (public domain dedication), https://github.com/sgossner/VCSL",
+    "Weresax 1.003 by Karoryfer Lecolds (D. Smolken), CC0 1.0 (public domain dedication), https://github.com/sfzinstruments/karoryfer.weresax",
+    "Bear Sax 1.004 by Karoryfer Lecolds (D. Smolken), CC0 1.0 (public domain dedication), https://github.com/sfzinstruments/karoryfer.bear-sax",
+    "Drawbar Organ Emulation 2019-07-12 by FreePats project (freepats.zenvoid.org), CC0 1.0 (public domain dedication), https://freepats.zenvoid.org/Organ/electric-organ.html",
+    "jSteelDrum1 by Jeff Learman, CC0 1.0 (public domain dedication), https://github.com/jlearman/jSteelDrum1",
+    "Spanish Classical Guitar 2019-06-18 by FreePats project (freepats.zenvoid.org), CC0 1.0 (public domain dedication), https://github.com/freepats/spanish-classical-guitar",
+    "Discord SFZ GM Bank: Martin HD28 by Jeff Learman (for Kinwie’s Discord SFZ GM bank), CC0 1.0 (public domain dedication), https://github.com/sfzinstruments/Discord-SFZ-GM-Bank",
+    "ganjo 1.000 by sfzinstruments, CC0 1.0 (public domain dedication), https://github.com/sfzinstruments/ganjo",
+    "Ukulele 2026-08-11 by FreePats project (freepats.zenvoid.org), CC0 1.0 (public domain dedication), https://github.com/freepats/ukulele1",
+    "Button Accordion HN 2024-03-29 by FreePats project (freepats.zenvoid.org), CC0 1.0 (public domain dedication), https://github.com/freepats/button-accordion-HN",
+    "Swirly Drums 1.104 by Karoryfer Lecolds (D. Smolken), CC0 1.0 (public domain dedication), https://github.com/sfzinstruments/karoryfer.swirly-drums",
+    "Frankensnare 2.100 by Karoryfer Lecolds (D. Smolken), CC0 1.0 (public domain dedication), https://github.com/sfzinstruments/karoryfer.frankensnare",
+    "Gogodze Phu Vol II 1.001 by Karoryfer Lecolds (D. Smolken), CC0 1.0 (public domain dedication), https://github.com/sfzinstruments/karoryfer.gogodze-phu-vol-ii",
+    "Unruly Drums 1.100 by Karoryfer Lecolds (D. Smolken), CC0 1.0 (public domain dedication), https://github.com/sfzinstruments/karoryfer.unruly-drums",
+    "Gogodze Phu Vol I 1.001 by Karoryfer Lecolds (D. Smolken), CC0 1.0 (public domain dedication), https://github.com/sfzinstruments/karoryfer.gogodze-phu-vol-i",
+    "World Percussion 2020-09-05 by FreePats project (freepats.zenvoid.org), CC0 1.0 (public domain dedication), https://github.com/freepats/world-percussion"
+  ]
+}
